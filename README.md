@@ -2,7 +2,7 @@
 ## COMP 3717 - My Mini App
 
 ## Author
-**Olivia Grace** (A01363245)
+**Olivia Grace**
 
 ## Overview
 Crochet Away is a mobile Android application where users can keep track of their crochet projects. The application uses a Room database to persist information between sessions and makes HTTP requests to the CSS Colors REST API so that users can add colour schemes to their projects.
